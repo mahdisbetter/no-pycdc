@@ -21,7 +21,7 @@ raise TypeError
 # WARNING: Decompyle incomplete
 ```
 
-obfuscation result
+nopycdc output
 ```py
 try:
     raise TypeError
