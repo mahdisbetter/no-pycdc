@@ -1,4 +1,4 @@
-prevents pycdc decompilation by polluting with unsupported operations (prob gonna get fixed on accident in the near future (prob still gonna be doable because theres alot of unsupported operations in pycdc)) 
+prevents pycdc decompilation by polluting with unsupported operations (not future proof and still disassemblable) 
 
 input
 ```py
